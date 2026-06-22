@@ -11,7 +11,7 @@
 
 ---
 
-###  &nbsp; 狐 &nbsp; about
+###  &nbsp; アバウト &nbsp; about
 
 ```
 two tracks, one keyboard.
@@ -24,7 +24,7 @@ builder by day · breaker after hours.
 
 <br/>
 
-###  &nbsp; 技 &nbsp; stack
+###  &nbsp; スタック &nbsp; stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-C4A8FF?style=flat-square&logo=typescript&logoColor=0D0D14&labelColor=13131F" alt="TypeScript" />
@@ -42,7 +42,7 @@ builder by day · breaker after hours.
 
 <br/>
 
-###  &nbsp; 統計 &nbsp; stats
+###  &nbsp; スタッツ &nbsp; stats
 
 <table border="0">
   <tr>
@@ -60,7 +60,7 @@ builder by day · breaker after hours.
 <br/>
 <br/>
 
-###  &nbsp; 接続 &nbsp; elsewhere
+###  &nbsp; コンタクト &nbsp; contact
 
 <p>
   <a href="https://bloodmoonbreach.dev">
