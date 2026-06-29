@@ -48,8 +48,6 @@ somewhere between shipping code and learning how it falls apart — web dev at h
   <img align="left"  width="35px" style="padding-right:10px; padding-top:5px;" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  />
   <img align="left"  width="35px" style="padding-right:10px; padding-top:5px;" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  />
   <img align="left"  width="35px" style="padding-right:10px; padding-top:5px;" alt="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"  />
-  <img align="left"  width="35px" style="padding-right:10px; padding-top:5px;" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  />
-  <img align="left"  width="35px" style="padding-right:10px; padding-top:5px;" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  />
           
 <br/>
 
