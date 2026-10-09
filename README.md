@@ -12,7 +12,7 @@
 ###  アバウト  about
 
 >full-stack developer & cybersecurity analyst.
->I enjoy both the process of building and the thrill of finding exploring and finding vulnerabilities, both from the same keyboard.
+>I enjoy both the process of building and the thrill of exploring and finding vulnerabilities, both from the same keyboard.
 
 
 
