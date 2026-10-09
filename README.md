@@ -16,7 +16,7 @@
 
 
 
-<a href="https://bloodmoonbreach.dev"><img src="./assets/logo-flipped.svg" alt="bloodmoonbreach.dev" width="45"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/darius-berinde"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:hello@bloodmoonbreach.dev"><img width="45" src="https://cdn.simpleicons.org/maildotru" alt="Email" /></a>
+<a href="https://bloodmoonbreach.dev"><img src="./assets/logo-flipped.svg" alt="bloodmoonbreach.dev" width="45"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dariusberinde24"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:dariusberinde24@gmail.com"><img width="45" src="https://cdn.simpleicons.org/maildotru" alt="Email" /></a>
 
 ---
 
