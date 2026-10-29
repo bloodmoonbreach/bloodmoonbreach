@@ -1,22 +1,35 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" alt="darius berinde — full-stack developer · security researcher" width="100%" />
+<img src="./assets/banner-2026.png" alt="darius berinde · cybersecurity · full-stack developer" width="100%" />
 
 <br/>
 
-<!-- ブログ · プロジェクト — katakana echo of the site -->
-·  `フルスタック`  ·  `bloodmoonbreach.dev`  ·  `セキュリティ`  ·  
+·  `セキュリティ`  ·  `bloodmoonbreach.dev`  ·  `フルスタック`  ·
 
 </div>
 
 ###  アバウト  about
 
->full-stack developer & cybersecurity analyst.
->I enjoy both the process of building and the thrill of exploring and finding vulnerabilities, both from the same keyboard.
-
-
+I'm passionate about cybersecurity and full-stack development, and I put the hours in: labs on Hack The Box and TryHackMe, a home lab on a NAS, and tools I design myself and build with AI-assisted development (Claude Code). Everything I learn ends up as a writeup at [bloodmoonbreach.dev](https://bloodmoonbreach.dev).
 
 <a href="https://bloodmoonbreach.dev"><img src="./assets/logo-flipped.svg" alt="bloodmoonbreach.dev" width="45"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dariusberinde24"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:dariusberinde24@gmail.com"><img width="45" src="https://cdn.simpleicons.org/maildotru" alt="Email" /></a>
+
+---
+
+### プロジェクト  projects
+
+- [**mikazuki**](https://github.com/bloodmoonbreach/mikazuki) 三日月 · A self-hosted job-search desk: collects offers from company job systems, checks where a "remote" job can really be done from, builds every CV from one fact file, and prepares applications without ever pressing Submit.
+- [**remote-check**](https://github.com/bloodmoonbreach/remote-check) · "Can I do this job from where I live?" for 252 countries, in English, Spanish and Romanian. Strips hidden text and prompt injections before reading a post.
+- [**cvtracks**](https://github.com/bloodmoonbreach/cvtracks) · One fact file, every CV: one-page PDFs per role and language, a linter, and tailoring that never invents a claim.
+- [**bloodmoonbreach.dev**](https://bloodmoonbreach.dev) · My blog: pentest writeups, lab notes, and how the projects above were built.
+
+All three tools are MIT-licensed and run on your own machine.
+
+### いま  now
+
+- Preparing for SOC analyst and junior pentester roles.
+- Lab work on Hack The Box and TryHackMe, written up on the blog.
+- Running my own automation on a NAS: n8n, Home Assistant and the tools above.
 
 ---
 
@@ -68,6 +81,3 @@
   <img align="left" width="35px" style="padding-right:7px; padding-top:5px; pointer-events:none;" alt="Claude" src="https://cdn.simpleicons.org/claude" />
   <img align="left" width="35px" style="padding-right:7px; padding-top:5px; pointer-events:none;" alt="Hermes Agent" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/hermesagent.svg" />
   <img align="left" width="35px" style="padding-right:7px; padding-top:5px; pointer-events:none;" alt="Odysseus" src="./assets/odysseus.png" />
-
-
-
